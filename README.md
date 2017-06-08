@@ -1,3 +1,5 @@
+![Cover Image](https://topuhit.github.io/responsive-app/css/whywhywhy-facebook.png)
+
 Responsive App
 ---
 A lightweight responsive framework for fullscreen web applications.
@@ -11,7 +13,7 @@ Supports all modern browsers, IE 9+, iOS. Functions in IE8.
  - [ ] Add examples
 
 ### How it works
-The responsive app framework divides the screen realestate into four sections: two responsive panels, headmatter, and main content. See a [demo](http://fgassert.github.io/responsive-app/).
+The responsive app framework divides the screen realestate into four sections: two responsive panels, headmatter, and main content. See a [demo](https://github.com/topuhit/responsive-app).
 
 ![layout](http://raw.github.com/fgassert/responsive-app/master/fullscreen-app-layout.png)
 
